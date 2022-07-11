@@ -34,7 +34,7 @@ const Hero = () => (
         }
         description="The largest car services marketing platform"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://onelink.to/779can">
             <a>
               <Button xl>Download The App</Button>
             </a>

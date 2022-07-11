@@ -10,7 +10,7 @@ const Banner = () => (
       title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
       subtitle="Download The App Now"
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://onelink.to/779can">
           <a>
             <Button>Get Started</Button>
           </a>
