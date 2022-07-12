@@ -7,12 +7,12 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Download The App Now"
+      title="Dont waste your time and fuel looking around for shops"
+      subtitle=" or used auto parts, and find offers instantly with Spartlic"
       button={
         <Link href="https://onelink.to/779can">
           <a>
-            <Button>Get Started</Button>
+            <Button>Download The App</Button>
           </a>
         </Link>
       }
