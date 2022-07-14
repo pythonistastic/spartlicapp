@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Link from 'next/link';
 
 import { Background } from '../background/Background';
@@ -11,7 +12,7 @@ const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
-        <li>
+        {/* <li>
           <Link href="/">
             <a>About</a>
           </Link>
@@ -20,7 +21,7 @@ const Hero = () => (
           <Link href="/">
             <a>Sign in</a>
           </Link>
-        </li>
+        </li> */}
       </NavbarTwoColumns>
     </Section>
 
