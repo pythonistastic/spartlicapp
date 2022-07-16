@@ -1,6 +1,6 @@
 export const AppConfig = {
   site_name: 'Spartlic',
   title: 'Spartlic',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  description: 'Spartlic the largest car services marketing platform',
   locale: 'en',
 };
